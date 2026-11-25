@@ -41,6 +41,10 @@ This commands includes
 
 
 <img width="627" height="681" alt="image" src="https://github.com/user-attachments/assets/48b60336-62cd-47c0-b628-2f96891b8312" />
+
+
+
+
 2.ipconfig:
 
 
