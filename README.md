@@ -56,6 +56,16 @@ This commands includes
 
 
 <img width="566" height="567" alt="image" src="https://github.com/user-attachments/assets/8965d628-e7c4-4cf6-bc96-b816e3e12a43" />
+
+
+
+
+
+
+
+
+
+
 3.ping
 
 
@@ -78,6 +88,11 @@ This commands includes
 
 
 <img width="635" height="507" alt="image" src="https://github.com/user-attachments/assets/c258ca86-6ccf-4df7-b0cf-96e9de70a144" />
+
+
+
+
+
 4.tracert:
 
 
@@ -100,6 +115,13 @@ This commands includes
 
 
 <img width="517" height="211" alt="image" src="https://github.com/user-attachments/assets/b0686d03-3eaf-4907-857c-abf2e42cf1ea" />
+
+
+
+
+
+
+
 5.nslookup:
 
 
@@ -119,6 +141,11 @@ This commands includes
 
 
 <img width="572" height="263" alt="image" src="https://github.com/user-attachments/assets/72970691-333f-4e73-ae7a-0dccbbfc8f3b" />
+
+
+
+
+
 6.getmac:
 
 
@@ -136,6 +163,9 @@ This commands includes
 
 
 <img width="557" height="151" alt="image" src="https://github.com/user-attachments/assets/2906072b-7be6-41a8-9c53-3403304f10b5" />
+
+
+
 7.hostname:
 
 
@@ -161,6 +191,12 @@ This commands includes
 
 
 <img width="976" height="81" alt="image" src="https://github.com/user-attachments/assets/1020ccdf-6efd-4136-84dc-c2400aaa1ef1" />
+
+
+
+
+
+
 8.nbtstat
 
 
@@ -182,6 +218,10 @@ This commands includes
 
 
 <img width="1313" height="362" alt="image" src="https://github.com/user-attachments/assets/708f9045-6227-49ab-914e-edd6d472ff2c" />
+
+
+
+
 9.arp:
 
 
@@ -206,6 +246,9 @@ This commands includes
 
 
 <img width="621" height="493" alt="image" src="https://github.com/user-attachments/assets/c1230e62-3b0f-46c9-b087-8cc0a88ce42d" />
+
+
+
 10.systeminfo
 
 
